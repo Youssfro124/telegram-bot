@@ -54,7 +54,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.message.reply_text(
             "Très bon choix, tu seras pas déçu ! 🔥\n\n"
             "💳 Voici nos différents moyens de paiements :\n\n"
-            "1️⃣ Carte bancaire, Apple Pay, Revolut : https://revolut.me/slowww677\n\n"
+            "1️⃣ Carte bancaire, Apple Pay etc... : https://revolut.me/slowww677\n\n"
             "2️⃣ RIB : IT84 C036 6901 6002 0403 3742 101\n"
             "(Mettez n'importe quel destinataire)\n\n"
             "3️⃣ Paypal : Sarah.lb9999@gmail.com (ami proche uniquement)\n\n"
